@@ -1,13 +1,13 @@
-current day,week day,month,day,year,protein,carbs,fat,calories intake,water,move cal,training day
-1,Fri,Dec,30,2022,108,118,66,1767,3L,594,upper
-2,Sat,Dec,31,2022,96,133,70,1908,3L,572,lower
-3,Sun,Jan,1,2023,120,155,86,1862,3L,0,rest
-4,Mon,Jan,2,2023,126,116,74,1793,3L,662,lower
-5,Tues,Jan,3,2023,156,125,76,1805,3L,653,upper 
-6,Wed,Jan,4,2023,157,161,61,1815,3L,614,lower
-7,Thur,Jan,5,2023,96,126,88,1759,3L,0,rest
-8,Fri,Jan,6,2023,148,118,79,1683,3L,677,upper
-9,Sat,Jan,7,2023,155,128,73,1703,3L,684,lower
-10,Sun,Jan,8,2023,154,127,73,1707,3L,812,upper
-11,Mon,Jan,9,2023,133,137,63,1456,3L,802,lower
-12,Tues,Jan,10,2023,152,116,66,1752,3L,577,upper
+current day,week day,month,day,year,protein,carbs,fat,calories intake,water,move cal,training day,group
+1,Fri,Dec,30,2022,108,118,66,1767,3L,594,upper,green
+2,Sat,Dec,31,2022,96,133,70,1908,3L,572,lower,orange
+3,Sun,Jan,1,2023,120,155,86,1862,3L,0,rest,lightblue
+4,Mon,Jan,2,2023,126,116,74,1793,3L,662,lower,orange
+5,Tues,Jan,3,2023,156,125,76,1805,3L,653,upper,green 
+6,Wed,Jan,4,2023,157,161,61,1815,3L,614,lower,orange
+7,Thur,Jan,5,2023,96,126,88,1759,3L,0,rest,lightblue
+8,Fri,Jan,6,2023,148,118,79,1683,3L,677,upper,green
+9,Sat,Jan,7,2023,155,128,73,1703,3L,684,lower,orange
+10,Sun,Jan,8,2023,154,127,73,1707,3L,812,upper,green
+11,Mon,Jan,9,2023,133,137,63,1456,3L,802,lower,orange
+12,Tues,Jan,10,2023,152,116,66,1752,3L,577,upper,green
